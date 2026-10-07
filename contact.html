@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Contact Angie Ekman about web and app development."
+    />
+    <link rel="stylesheet" href="styles/styles.css" />
+    <link rel="stylesheet" href="styles/contact.css" />
+    <title>Angie Ekman | Contact</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="navbar" aria-label="Main navigation">
+        <a class="brand" href="index.html">Angie Ekman</a>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a aria-current="page" href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="page-main">
+      <section class="contact-layout" aria-labelledby="contact-title">
+        <div class="contact-copy">
+          <p class="eyebrow">Say hello</p>
+          <h1 id="contact-title">Contact</h1>
+          <p>
+            Have a question or want to talk about a project? Send me a message
+            using the form.
+          </p>
+          <p>
+            You can also email me at
+            <a href="mailto:hello@angieekman.example"
+              >hello@angieekman.example</a
+            >.
+          </p>
+        </div>
+        <form
+          class="contact-form"
+          action="mailto:hello@angieekman.example"
+          method="post"
+          enctype="text/plain"
+        >
+          <div class="form-field">
+            <label for="name">Name</label
+            ><input
+              id="name"
+              name="name"
+              type="text"
+              autocomplete="name"
+              required
+            />
+          </div>
+          <div class="form-field">
+            <label for="email">Email</label
+            ><input
+              id="email"
+              name="email"
+              type="email"
+              autocomplete="email"
+              required
+            />
+          </div>
+          <div class="form-field">
+            <label for="message">Message</label
+            ><textarea id="message" name="message" rows="6" required></textarea>
+          </div>
+          <button class="button" type="submit">Send message</button>
+        </form>
+      </section>
+    </main>
+    <footer class="site-footer"><p>&copy; 2026 Angie Ekman</p></footer>
+  </body>
+</html>
