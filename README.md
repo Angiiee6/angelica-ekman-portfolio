@@ -2,7 +2,7 @@
 
 ## Beskrivning och målgrupp
 
-En responsiv portfolio för Angie Ekman, blivande webb- och apputvecklare. Webbplatsen riktar sig till personer som vill se exempel på arbete och komma i kontakt. Projektkorten är övningskoncept och inte publicerade kundprojekt.
+En responsiv portfolio för Angie Ekman, blivande webb- och apputvecklare. Webbplatsen riktar sig till personer som vill se exempel på arbete och komma i kontakt. Projektkorten länkar till projekt på GitHub.
 
 ## Kravchecklista
 
@@ -14,6 +14,7 @@ En responsiv portfolio för Angie Ekman, blivande webb- och apputvecklare. Webbp
 - [x] Responsiv bild med beskrivande alt-text, rubrikhierarki och läsbar radavstånd.
 - [x] Formulär med etiketter, obligatoriska fält och e-postfält.
 - [x] Beskrivande navigationslänkar och tangentbordsfokusmarkering.
+- [x] Alla sex projektkort länkar till respektive GitHub-repository och har hover- och fokusmarkering.
 - [x] CSS-filer ligger i `/styles` och bildresursen i `/assets`.
 - [ ] Validera alla HTML-filer på [W3C HTML Validator](https://validator.w3.org/) och CSS-filer på [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Kontrollera resultatet före inlämning och rätta eventuella fel.
 - [ ] Publicera exempelvis via Netlify, om en publik länk krävs.
@@ -26,5 +27,5 @@ En responsiv portfolio för Angie Ekman, blivande webb- och apputvecklare. Webbp
 
 - Kontaktformuläret använder `mailto:` och öppnar besökarens e-postprogram. För faktisk formulärhantering behöver det kopplas till en formulärtjänst eller server.
 - Byt exempeladressen `hello@angieekman.example` mot en riktig kontaktadress innan publicering.
-- Byt ut övningsprojekten mot riktiga projekt när sådana finns.
+- Lägg gärna till skärmbilder och mer detaljerade beskrivningar av projekten.
 - Kör HTML- och CSS-validering och dokumentera eventuella kvarvarande varningar här innan inlämning.
