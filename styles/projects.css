@@ -73,9 +73,6 @@
 .project-copy p {
   margin: 0 0 0.8rem;
 }
-.project-copy p:not(.project-tags) {
-  font-size: 1.2rem;
-}
 .project-copy .project-tags {
   margin: 0;
   color: #5b4a61;
