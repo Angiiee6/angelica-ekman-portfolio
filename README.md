@@ -1,8 +1,8 @@
-# Angie Ekman – Portfolio
+# Angelica Ekman – Portfolio
 
 ## Beskrivning och målgrupp
 
-En responsiv portfolio för Angie Ekman, blivande webb- och apputvecklare. Webbplatsen riktar sig till personer som vill se exempel på arbete och komma i kontakt. Projektkorten länkar till projekt på GitHub.
+En responsiv portfolio för Angelica Ekman, blivande webb- och apputvecklare. Webbplatsen riktar sig till personer som vill se exempel på arbete och komma i kontakt. Projektkorten länkar till projekt på GitHub.
 
 ## Kravchecklista
 

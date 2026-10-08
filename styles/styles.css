@@ -3,6 +3,7 @@
   --ink: #30213b;
   --plum: #4a2d6b;
   --berry: #8d3265;
+  --pink: #f0c5df;
   --lavender: #f7f2fa;
   --white: #fff;
 }
@@ -29,7 +30,7 @@ a {
   text-underline-offset: 0.2em;
 }
 a:hover {
-  color: var(--plum);
+  color: var(--pink);
 }
 a:focus-visible,
 button:focus-visible,
@@ -69,6 +70,11 @@ textarea:focus-visible {
   color: var(--white);
   font-weight: 600;
   text-decoration: none;
+  transition: color 180ms ease;
+}
+.nav-links :hover,
+.nav-links :focus-visible {
+  color: var(--pink);
 }
 .nav-links a[aria-current="page"] {
   color: var(--white);
