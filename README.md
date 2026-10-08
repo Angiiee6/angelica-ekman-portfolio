@@ -26,6 +26,5 @@ En responsiv portfolio för Angie Ekman, blivande webb- och apputvecklare. Webbp
 ## Kända brister / att göra
 
 - Kontaktformuläret använder `mailto:` och öppnar besökarens e-postprogram. För faktisk formulärhantering behöver det kopplas till en formulärtjänst eller server.
-- Byt exempeladressen `hello@angieekman.example` mot en riktig kontaktadress innan publicering.
 - Lägg gärna till skärmbilder och mer detaljerade beskrivningar av projekten.
 - Kör HTML- och CSS-validering och dokumentera eventuella kvarvarande varningar här innan inlämning.
