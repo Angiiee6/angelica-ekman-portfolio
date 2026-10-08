@@ -37,12 +37,7 @@
 }
 
 .project-art {
-  display: grid;
   min-height: 150px;
-  place-items: center;
-  color: var(--white);
-  font-size: 3rem;
-  font-weight: 700;
 }
 
 .project-art-one {
