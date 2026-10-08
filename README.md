@@ -19,9 +19,9 @@ En responsiv portfolio för Angelica Ekman, blivande webb- och apputvecklare. We
 - [x] Validera alla HTML-filer på [W3C HTML Validator](https://validator.w3.org/) och CSS-filer på [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): 0 fel.
 - [x] Publicera via Netlify
 
-## Köra lokalt
+## Köra
 
-Öppna `index.html` i en webbläsare. Alternativt kan projektmappen startas med en lokal statisk webbserver och öppnas via dess lokala adress. Webbplatsen kräver ingen byggprocess.
+https://angelica-ekman-portfolio.netlify.app/
 
 ## Kända brister / att göra
 
