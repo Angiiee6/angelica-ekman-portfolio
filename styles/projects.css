@@ -27,13 +27,13 @@
 .project-link {
   display: block;
   height: 100%;
-  color: inherit;
+  color: var(--ink);
   text-decoration: none;
 }
 
-.project-link:hover .project-copy h2,
-.project-link:focus-visible .project-copy h2 {
-  color: var(--berry);
+.project-link:hover,
+.project-link:focus-visible {
+  color: var(--ink);
 }
 
 .project-art {

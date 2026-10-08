@@ -30,7 +30,7 @@ a {
   text-underline-offset: 0.2em;
 }
 a:hover {
-  color: var(--pink);
+  color: var(--plum);
 }
 a:focus-visible,
 button:focus-visible,

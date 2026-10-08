@@ -11,13 +11,13 @@ En responsiv portfolio för Angelica Ekman, blivande webb- och apputvecklare. We
 - [x] Flexbox på startsidans hero och kontaktlayout/formulär.
 - [x] CSS Grid för projektkorten.
 - [x] Mobil-först CSS med brytpunkter vid 480 px och 768 px.
-- [x] Responsiv bild med beskrivande alt-text, rubrikhierarki och läsbar radavstånd.
+- [x] Responsiv bild med beskrivande alt-text, rubrikhierarki och läsbart radavstånd.
 - [x] Formulär med etiketter, obligatoriska fält och e-postfält.
 - [x] Beskrivande navigationslänkar och tangentbordsfokusmarkering.
 - [x] Alla sex projektkort länkar till respektive GitHub-repository och har hover- och fokusmarkering.
 - [x] CSS-filer ligger i `/styles` och bildresursen i `/assets`.
-- [ ] Validera alla HTML-filer på [W3C HTML Validator](https://validator.w3.org/) och CSS-filer på [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Kontrollera resultatet före inlämning och rätta eventuella fel.
-- [ ] Publicera exempelvis via Netlify, om en publik länk krävs.
+- [x] Validera alla HTML-filer på [W3C HTML Validator](https://validator.w3.org/) och CSS-filer på [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): 0 fel.
+- [x] Publicera via Netlify
 
 ## Köra lokalt
 
@@ -26,5 +26,3 @@ En responsiv portfolio för Angelica Ekman, blivande webb- och apputvecklare. We
 ## Kända brister / att göra
 
 - Kontaktformuläret använder `mailto:` och öppnar besökarens e-postprogram. För faktisk formulärhantering behöver det kopplas till en formulärtjänst eller server.
-- Lägg gärna till skärmbilder och mer detaljerade beskrivningar av projekten.
-- Kör HTML- och CSS-validering och dokumentera eventuella kvarvarande varningar här innan inlämning.
